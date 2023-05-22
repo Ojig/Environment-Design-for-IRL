@@ -11,6 +11,7 @@ tensorflow==2.9.0
 ray==2.0.0
 imitation==0.3.2
 mujoco==2.3.0
+fire
 
 (_Tested on Ubuntu 20.04 and 22.04_)
 
